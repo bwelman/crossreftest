@@ -1,0 +1,19 @@
+# Intro {.unnumbered}
+
+Some text.
+
+See @fig-elephant1
+
+![Elephant 1](elephant1.png){#fig-elephant1}
+
+1.  item A
+
+2.  item B
+
+And now a figure inside a callout.
+
+::: callout-note
+See @fig-elephant2.
+
+![Elephant 2](elephant2.png){#fig-elephant2}
+:::
